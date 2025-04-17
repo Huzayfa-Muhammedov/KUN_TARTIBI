@@ -12173,4 +12173,124 @@ textarea.form-control-lg {
     border-radius: 10px;
     background-image: linear-gradient(200deg, #0187bc, #32c2fb);
   }
+}
+@media only screen and (min-width: 290px) {
+  .site-footer {
+    width: 300px;
+  }
+  .site-main {
+    width: 300px;
+  }
+}
+@media only screen and (min-width: 300px) {
+  .site-footer {
+    width: 310px;
+  }
+  .site-main {
+    width: 310px;
+  }
+}
+@media only screen and (min-width: 310px) {
+  .site-footer {
+    width: 320px;
+  }
+  .site-main {
+    width: 320px;
+  }
+}
+@media only screen and (min-width: 320px) {
+  .site-footer {
+    width: 330px;
+  }
+  .site-main {
+    width: 330px;
+  }
+}
+@media only screen and (min-width: 330px) {
+  .site-footer {
+    width: 340px;
+  }
+  .site-main {
+    width: 340px;
+  }
+}
+@media only screen and (min-width: 340px) {
+  .site-footer {
+    width: 350px;
+  }
+  .site-main {
+    width: 350px;
+  }
+}
+@media only screen and (min-width: 350px) {
+  .site-footer {
+    width: 360px;
+  }
+  .site-main {
+    width: 360px;
+  }
+}
+@media only screen and (min-width: 360px) {
+  .site-footer {
+    width: 370px;
+  }
+  .site-main {
+    width: 370px;
+  }
+}
+@media only screen and (min-width: 370px) {
+  .site-footer {
+    width: 380px;
+  }
+  .site-main {
+    width: 380px;
+  }
+}
+@media only screen and (min-width: 380px) {
+  .site-footer {
+    width: 390px;
+  }
+  .site-main {
+    width: 390px;
+  }
+}
+@media only screen and (min-width: 390px) {
+  .site-footer {
+    width: 400px;
+  }
+  .site-main {
+    width: 400px;
+  }
+}
+@media only screen and (min-width: 400px) {
+  .site-footer {
+    width: 410px;
+  }
+  .site-main {
+    width: 410px;
+  }
+}
+@media only screen and (min-width: 410px) {
+  .site-footer {
+    width: 420px;
+  }
+  .site-main {
+    width: 420px;
+  }
+}
+@media only screen and (min-width: 420px) {
+  .site-footer {
+    width: 430px;
+  }
+  .site-main {
+    width: 430px;
+  }
+}
+@media only screen and (min-width: 430px) {
+  .site-footer {
+    width: 440px;
+  }
+  .site-main {
+    width: 440px;
+  }
 }/*# sourceMappingURL=main.css.map */
